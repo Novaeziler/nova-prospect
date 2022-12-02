@@ -1,0 +1,18 @@
+{
+  "name": "mercycode",
+  "version": "0.0.1",
+  "main": "wasty.js",
+  "repository": {
+    "type": "git"
+  },
+  "author": "dataa",
+  "license": "manyak mısın niye token aktif tutuyon",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node": "^15.12.0"
+  },
+  "scripts": {
+    "start": "node wasty.js",
+    "test": "node wasty.js"
+  }
+}
